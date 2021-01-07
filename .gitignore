@@ -1,0 +1,30 @@
+# binaries
+*.class
+
+# Maven 
+target/
+
+# gradle
+gradle/
+build/
+.gradle/
+bin/
+
+# IntelliJ project files 
+*.iml
+*.iws
+*.ipr
+.idea/
+
+# eclipse project file
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
+
+.vscode/
+
+# CCM
+scm/snapshot
